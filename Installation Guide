@@ -1,0 +1,4 @@
+1. Install Node
+2. npm init
+3. npm i express
+4. npm i mongoose
